@@ -1,0 +1,11 @@
+.SecondPage{
+    display: flex;
+    padding: 40px 200px;
+}
+
+.ImageSection{
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    justify-content: left;
+}

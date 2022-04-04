@@ -1,0 +1,50 @@
+.AppHeader{
+    background-color: #1c1c3e;
+    min-height: 75vh;
+}
+
+.NavBar{
+    display: flex;
+    justify-content: space-between;
+    padding: 0 70px;
+    padding-top: 20px;
+}
+
+.NavImage{
+    height: 70px;
+    width: 70px;
+}
+
+.MenuImage{
+    height: 35px;
+    width: 35px;
+}
+
+
+.Button1{
+    height: 50px;
+    width: 150px;
+    background-color: white;
+    border-radius: 5px;
+    color: #1c1c3e;
+    font-weight: bold;
+    margin-bottom: 40px;
+}
+
+.Heading{
+    color: white;
+    font-size: 75px;
+    width: 450px;
+}
+
+.Para1{
+    color: white;
+    font-size: 25px;
+    width: 500px;
+}
+
+.Section2{
+    display: Flex;
+    flex-direction: column;
+    padding: 0 70px;
+}
